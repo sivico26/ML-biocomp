@@ -95,7 +95,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>Lecture 6</td>
       <td>TBA <br> _</td>
       <td>
-	<b>Dimensional Reduction</b> <br>
+	<b>Unsupervised Learning</b> <br>
 	TBA
       </td>
       <td>
