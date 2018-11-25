@@ -103,17 +103,6 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Discussion Section</td>
-      <td> TBA <br> _ </td>
-      <td>
-	<b>Practical Machine Learning</b>
-	TBA
-      </td>
-      <td>
-	Soon
-      </td>
-    </tr>
-    <tr>
       <td>Lecture 7</td>
       <td> TBA <br> _ </td>
       <td>
