@@ -3,7 +3,8 @@ This repository contains the material of the mini course of ML taught by the
 laboratory of Computational Biology of the Universidad EAFIT.
 
 ## Schedule and Syllabus
-### 
+Unless otherwise specified the lectures are _ in the Computational Biology Lab (3 - 319) <br>
+Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 
 <table class="table">
   <tbody><tr class="active">
@@ -34,7 +35,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 3</td>
+      <td>Lecture 2</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Classification</b> <br>
@@ -44,7 +45,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 4</td>
+      <td>Lecture 3</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Training Models</b> <br>
@@ -54,7 +55,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 5</td>
+      <td>Lecture 4</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Support Vector Machines</b> <br>
@@ -65,7 +66,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 6</td>
+      <td>Lecture 5</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Forests</b> <br>
@@ -78,7 +79,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 7</td>
+      <td>Lecture 6</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Dimensional Reduction</b> <br>
@@ -89,7 +90,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 8</td>
+      <td>Lecture 7</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
@@ -111,7 +112,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     </tr>
     <tr>
     </tr><tr>
-      <td>Lecture 9</td>
+      <td>Lecture 8</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
@@ -122,7 +123,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 10</td>
+      <td>Lecture 9</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
@@ -133,7 +134,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
       </td>
     </tr>
     <tr>
-      <td>Lecture 11</td>
+      <td>Lecture 10</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
