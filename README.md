@@ -19,7 +19,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 	<ul>
 	  <li>What is?</li>
 	  <li>Why use?</li>
-	  <li>Motivation</li>
+	  <li>Examples</li>
 	  <li>Types</li>
 	  <li>Testing and Validation</li>
 	</ul>
