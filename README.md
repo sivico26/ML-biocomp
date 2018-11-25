@@ -16,12 +16,20 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>
 	<b>Course Introduction</b> <br>
 	The Machine Learning Landscape <br>
+	<ul>
+	  <li>What is?</li>
+	  <li>Why use?</li>
+	  <li>Motivation</li>
+	  <li>Types</li>
+	  <li>Testing and Validation</li>
+	</ul>
 	Course logistics
       </td>
       <td>
-	TBA
+	<a href="soon">[slides]</a>
       </td>
     </tr>
+    <tr>
       <td>Discussion Section</td>
       <td> TBA <br> _ </td>
       <td>
@@ -36,11 +44,16 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 2</td>
-      <td> TBA <br> _ </td>
+      <td>TBA <br> _</td>
       <td>
 	<b>Classification</b> <br>
-	TBA
-      <td>
+	Binary Classifier<br>
+	Performance Measures<br>
+	Multiclass Classification<br>
+	Error Analysis<br>
+	Multilabel Classification<br>
+	Multioutput Classification
+      </td><td>
 	Soon
       </td>
     </tr>
@@ -83,6 +96,17 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>TBA <br> _</td>
       <td>
 	<b>Dimensional Reduction</b> <br>
+	TBA
+      </td>
+      <td>
+	Soon
+      </td>
+    </tr>
+    <tr>
+      <td>Discussion Section</td>
+      <td> TBA <br> _ </td>
+      <td>
+	<b>Practical Machine Learning</b>
 	TBA
       </td>
       <td>
@@ -139,6 +163,17 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>
 	<b>Recurrent Neural Networks</b> <br>
 	TBA
+      </td>
+      <td>
+	Soon
+      </td>
+    </tr>
+    <tr>
+      <td>Discussion Section</td>
+      <td> TBA <br> _ </td>
+      <td>
+	<b>Practical Deep Learning</b> <br>
+	Pneumonia detection.
       </td>
       <td>
 	Soon
