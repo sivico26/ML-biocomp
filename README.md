@@ -11,7 +11,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     </tr>
     <tr>
       <td>Lecture 1</td>
-      <td>TBA</td>
+      <td>TBA <br> _ </td>
       <td>
 	<b>Course Introduction</b> <br>
 	The Machine Learning Landscape <br>
@@ -21,9 +21,8 @@ laboratory of Computational Biology of the Universidad EAFIT.
 	TBA
       </td>
     </tr>
-    <tr class="info">
-      <td>Lecture 2</td>
-      <td> TBA <br> November _ </td>
+      <td>Discussion Section</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>The Wonderful World of Python</b> <br>
 	Python overview<br>
@@ -31,7 +30,6 @@ laboratory of Computational Biology of the Universidad EAFIT.
 	matplotlib / plotly and data visualization
       </td>
       <td>
-	<a href="soon">[slides]</a><br>
 	<a href="my puto repo">[python/numpy tutorial]</a>
       </td>
     </tr>
@@ -92,7 +90,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     </tr>
     <tr>
       <td>Lecture 8</td>
-      <td>Thursday <br> April 26</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
 	TBA
@@ -101,9 +99,9 @@ laboratory of Computational Biology of the Universidad EAFIT.
 	Soon
       </td>
     </tr>
-    <tr class="info">
+    <tr>
       <td>Discussion Section</td>
-      <td>Friday <br> April 27</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>Tensorflow</b>
       </td>
@@ -114,7 +112,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     <tr>
     </tr><tr>
       <td>Lecture 9</td>
-      <td>Tuesday <br> May 1</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
 	TBA
@@ -125,7 +123,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     </tr>
     <tr>
       <td>Lecture 10</td>
-      <td>Thursday <br> May 4</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
 	TBA
@@ -136,7 +134,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
     </tr>
     <tr>
       <td>Lecture 11</td>
-      <td>Thursday <br> May 10</td>
+      <td> TBA <br> _ </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
 	TBA
