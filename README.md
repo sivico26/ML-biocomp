@@ -172,7 +172,6 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 
 **Note**: This Syllabus will be subject to changes according to the interests of the attendees.
 
---
 ## Contributors:
 Santiago Hincapie-Potes<br>
 Mathematical Engineering Student<br>
