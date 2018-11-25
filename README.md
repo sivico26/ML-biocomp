@@ -39,7 +39,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 	matplotlib / plotly and data visualization
       </td>
       <td>
-	<a href="my puto repo">[python/numpy tutorial]</a>
+	<a href="https://github.com/shpotes/Curso-python">[python/numpy tutorial]</a>
       </td>
     </tr>
     <tr>
@@ -169,3 +169,13 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
 </tbody></table>
+
+**Note**: This Syllabus will be subject to changes according to the interests of the attendees.
+
+--
+## Contributors:
+Santiago Hincapie-Potes<br>
+Mathematical Engineering Student<br>
+Departamento de Ciencia Matematicas, Universidad EAFIT.<br>
+Email - shinca12[at]eafit[dot]edu[dot]co<br>
+Github - https://github.com/shpotes
