@@ -93,13 +93,13 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 	  <li>Define the clustering problem</li>
 	  <li>Types of clustering</li>
 	  <li>Clustering algorithms</li>
-	<\ul>
+	</ul>
 	Dimensionality Reduction<br>
 	<ul>
 	  <li>The curse of dimensionality</li>
 	  <li>Main approaches for dimensionality reduction</li>
 	  <li>PCA</li>
-	<\ul>	
+	</ul>	
       </td>
       <td>
 	Soon
