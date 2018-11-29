@@ -110,7 +110,11 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td> TBA <br> _ </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
-	TBA
+	Bio-inspired algorithms <br>
+	Biological neurons <br>
+	Perceptron <br>
+	Multi-layer perceptron <br>
+	Fine-Tuning <br>
       </td>
       <td>
 	Soon
@@ -132,7 +136,13 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td> TBA <br> _ </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
-	TBA
+	Vanishing gradient problem <br>
+	<ul>
+	  <li> Initialization </li>
+	  <li> Nonsaturating activation function </li>
+	</ul>
+	Reusing Pretrained Layers<br>
+	Regularization
       </td>
       <td>
 	Soon
@@ -143,7 +153,10 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td> TBA <br> _ </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
-	TBA
+	Visual cortex <br>
+	Convolutional layer <br>
+	Pooling later <br>
+	CNN architectures
       </td>
       <td>
 	Soon
@@ -154,7 +167,11 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td> TBA <br> _ </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
-	TBA
+	Memory Cells <br>
+	IO sequences <br>
+	Training RNNs <br>
+	LSTM cell <br>
+	GRU cell <br>
       </td>
       <td>
 	Soon
@@ -164,8 +181,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>Discussion Section</td>
       <td> TBA <br> _ </td>
       <td>
-	<b>Practical Deep Learning</b> <br>
-	Pneumonia detection.
+	<b>Practical Deep Learning</b>
       </td>
       <td>
 	Soon
