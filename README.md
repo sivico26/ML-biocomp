@@ -26,7 +26,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 	Course logistics
       </td>
       <td>
-	<a href="slides/lect1.pdf">[slides]</a>
+	<a href="/notebooks/lectures/lect1-introduction.ipynb">[slides]</a>
       </td>
     </tr>
     <tr>
