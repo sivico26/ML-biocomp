@@ -46,21 +46,6 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>Lecture 2</td>
       <td>TBA <br> _</td>
       <td>
-	<b>Classification</b> <br>
-	Binary Classifier<br>
-	Performance Measures<br>
-	Multiclass Classification<br>
-	Error Analysis<br>
-	Multilabel Classification<br>
-	Multioutput Classification
-      </td><td>
-	Soon
-      </td>
-    </tr>
-    <tr>
-      <td>Lecture 3</td>
-      <td>TBA <br> _</td>
-      <td>
 	<b>Training Models</b> <br>
 	TBA
       </td><td>
@@ -68,7 +53,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 4</td>
+      <td>Lecture 3</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Support Vector Machines</b> <br>
@@ -79,7 +64,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 5</td>
+      <td>Lecture 4</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Forests</b> <br>
@@ -92,7 +77,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 6</td>
+      <td>Lecture 5</td>
       <td>TBA <br> _</td>
       <td>
 	<b>Unsupervised Learning</b> <br>
@@ -103,7 +88,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 7</td>
+      <td>Lecture 6</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
@@ -125,7 +110,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
     </tr><tr>
-      <td>Lecture 8</td>
+      <td>Lecture 7</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
@@ -136,7 +121,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 9</td>
+      <td>Lecture 8</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
@@ -147,7 +132,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-      <td>Lecture 10</td>
+      <td>Lecture 9</td>
       <td> TBA <br> _ </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
