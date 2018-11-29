@@ -47,7 +47,11 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>TBA <br> _</td>
       <td>
 	<b>Training Models</b> <br>
-	TBA
+	Linear regression<br>
+	Gradient descent<br>
+	Polynomial regression<br>
+	Learning curves<br>
+	Logistic regression<br>
       </td><td>
 	Soon
       </td>
@@ -57,7 +61,10 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>TBA <br> _</td>
       <td>
 	<b>Support Vector Machines</b> <br>
-	TBA
+	Linear SVM Classification<br>
+	Nonlinear SVM Classification<br>
+	SVM regression<br>
+	Under the hood
       </td>
       <td>
 	Soon
@@ -81,7 +88,18 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       <td>TBA <br> _</td>
       <td>
 	<b>Unsupervised Learning</b> <br>
-	TBA
+	Clustering<br>
+	<ul>
+	  <li>Define the clustering problem</li>
+	  <li>Types of clustering</li>
+	  <li>Clustering algorithms</li>
+	<\ul>
+	Dimensionality Reduction<br>
+	<ul>
+	  <li>The curse of dimensionality</li>
+	  <li>Main approaches for dimensionality reduction</li>
+	  <li>PCA</li>
+	<\ul>	
       </td>
       <td>
 	Soon
