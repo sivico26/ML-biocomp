@@ -21,7 +21,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	  <li>Types</li>
 	  <li>Testing and Validation</li>
 	</ul>
-	Course logistics
+	Course overview
       </td>
       <td>
 	<a href="/notebooks/lectures/lect1-introduction.ipynb">[slides]</a>
