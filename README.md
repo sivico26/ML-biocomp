@@ -124,7 +124,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> Thursday <br> Dec 6 </td>
+      <td> Thursday <br> Dec 6 <br> 33-202 </td>
       <td>
 	<b>Tensorflow</b>
       </td>
