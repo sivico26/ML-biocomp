@@ -2,6 +2,9 @@
 This repository contains the material of the mini course of ML taught by the
 laboratory of Computational Biology of the Universidad EAFIT.
 
+## Registration form 
+please fill out [this](https://goo.gl/forms/elQMecXrRqK0IEjk2) form.
+
 ## Schedule and Syllabus
 Unless otherwise specified both lectures and discussion sections are weekday but friday 13:00 to 16:00 in the _ - ___ <br>
 
