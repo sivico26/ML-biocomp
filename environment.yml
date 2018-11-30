@@ -10,7 +10,6 @@ dependencies:
   - numpy=1.15
   - tqdm
   - scipy
-  - sklearn
   - sympy
   - tensorflow=1.11
   - pip
