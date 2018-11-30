@@ -2,7 +2,8 @@ from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 import numpy as np
 
-def show_1D_dataset_samples(n, d1, d2, n_datasets=10, dot_alpha=.5, line_alpha=.5, figsize=(20,5)):
+def show_1D_dataset_samples(n, d1, d2, n_datasets=10, dot_alpha=.5,
+                            line_alpha=.5, figsize=(20,5)):
     plt.figure(figsize=figsize)
     for i in range(n_datasets):
 
@@ -19,3 +20,4 @@ def show_1D_dataset_samples(n, d1, d2, n_datasets=10, dot_alpha=.5, line_alpha=.
         plt.scatter(m1, [i+.1]*len(m1), color="red", alpha=dot_alpha, s=100)
         plt.scatter(m2, [i+.1]*len(m2), color="blue", alpha=dot_alpha, s=100)
     plt.axis("off")
+
