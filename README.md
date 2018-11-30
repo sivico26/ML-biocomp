@@ -18,7 +18,6 @@ Unless otherwise specified both lectures and discussion sections are 13:00 to 16
 	<ul>
 	  <li>What is?</li>
 	  <li>Why use?</li>
-	  <li>Examples</li>
 	  <li>Types</li>
 	  <li>Testing and Validation</li>
 	</ul>
