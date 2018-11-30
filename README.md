@@ -3,7 +3,7 @@ This repository contains the material of the mini course of ML taught by the
 laboratory of Computational Biology of the Universidad EAFIT.
 
 ## Schedule and Syllabus
-Unless otherwise specified both lectures and discussion sections are 13:00 to 16:00 at _ - ___ <br>
+Unless otherwise specified both lectures and discussion sections are weekday but friday 13:00 to 16:00 in the _ - ___ <br>
 
 <table class="table">
   <tbody><tr class="active">
@@ -177,7 +177,7 @@ Unless otherwise specified both lectures and discussion sections are 13:00 to 16
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> Wednesday <br> Dec 12 </td>
+      <td> Thursday <br> Dec 13 </td>
       <td>
 	<b>Practical Deep Learning</b><br>
 	<b>Chiron</b>: A basecaller for Oxford Nanopore Technologies sequencers<br>
