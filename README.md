@@ -2,9 +2,11 @@
 This repository contains the material of the mini course of ML taught by the
 laboratory of Computational Biology of the Universidad EAFIT.
 
+## Registration form 
+Please fill out [this](https://goo.gl/forms/elQMecXrRqK0IEjk2) form.
+
 ## Schedule and Syllabus
-Unless otherwise specified the lectures are _ in the Computational Biology Lab (3 - 319) <br>
-Discussion sections will be _ in the Computational Biology Lab (3 - 319)
+Unless otherwise specified both lectures and discussion sections are weekday but friday 13:00 to 16:00 in the _ - ___ <br>
 
 <table class="table">
   <tbody><tr class="active">
@@ -12,18 +14,17 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 1</td>
-      <td>TBA <br> _ </td>
+      <td> Monday <br> Dec 3 </td>
       <td>
 	<b>Course Introduction</b> <br>
 	The Machine Learning Landscape <br>
 	<ul>
 	  <li>What is?</li>
 	  <li>Why use?</li>
-	  <li>Examples</li>
 	  <li>Types</li>
 	  <li>Testing and Validation</li>
 	</ul>
-	Course logistics
+	Course overview
       </td>
       <td>
 	<a href="/notebooks/lectures/lect1-introduction.ipynb">[slides]</a>
@@ -31,7 +32,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> TBA <br> _ </td>
+      <td> Monday <br> Dec 3 </td>
       <td>
 	<b>The Wonderful World of Python</b> <br>
 	Python overview<br>
@@ -39,12 +40,13 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 	matplotlib / plotly and data visualization
       </td>
       <td>
+	<a href="/notebooks/lectures/python.ipynb">[slides]</a><br>
 	<a href="https://github.com/shpotes/Curso-python">[python/numpy tutorial]</a>
       </td>
     </tr>
     <tr>
       <td>Lecture 2</td>
-      <td>TBA <br> _</td>
+      <td> Tuesday <br> Dec 4 </td>
       <td>
 	<b>Training Models</b> <br>
 	Linear regression<br>
@@ -58,7 +60,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 3</td>
-      <td>TBA <br> _</td>
+      <td> Tuesday <br> Dec 4 </td>
       <td>
 	<b>Support Vector Machines</b> <br>
 	Linear SVM Classification<br>
@@ -72,7 +74,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 4</td>
-      <td>TBA <br> _</td>
+      <td> Tuesday <br> Dec 4 </td>
       <td>
 	<b>Forests</b> <br>
 	Decision Trees <br>
@@ -85,7 +87,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 5</td>
-      <td>TBA <br> _</td>
+      <td> Wednesday <br> Dec 5 </td>
       <td>
 	<b>Unsupervised Learning</b> <br>
 	Clustering<br>
@@ -107,7 +109,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 6</td>
-      <td> TBA <br> _ </td>
+      <td> Thursday <br> Dec 6 </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
 	Bio-inspired algorithms <br>
@@ -122,7 +124,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> TBA <br> _ </td>
+      <td> Thursday <br> Dec 6 </td>
       <td>
 	<b>Tensorflow</b>
       </td>
@@ -131,9 +133,8 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
       </td>
     </tr>
     <tr>
-    </tr><tr>
       <td>Lecture 7</td>
-      <td> TBA <br> _ </td>
+      <td> Monday <br> Dec 10 </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
 	Vanishing gradient problem <br>
@@ -150,7 +151,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 8</td>
-      <td> TBA <br> _ </td>
+      <td> Tuesday <br> Dec 11 </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
 	Visual cortex <br>
@@ -164,7 +165,7 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Lecture 9</td>
-      <td> TBA <br> _ </td>
+      <td> Wednesday <br> Dec 12 </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
 	Memory Cells <br>
@@ -179,9 +180,11 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> TBA <br> _ </td>
+      <td> Thursday <br> Dec 13 </td>
       <td>
-	<b>Practical Deep Learning</b>
+	<b>Practical Deep Learning</b><br>
+	<b>Chiron</b>: A basecaller for Oxford Nanopore Technologies sequencers<br>
+	<b>Pneumonia Detection</b>
       </td>
       <td>
 	Soon
@@ -195,5 +198,5 @@ Discussion sections will be _ in the Computational Biology Lab (3 - 319)
 Santiago Hincapie-Potes<br>
 Mathematical Engineering Student<br>
 Departamento de Ciencia Matematicas, Universidad EAFIT.<br>
-Email - shinca12[at]eafit[dot]edu[dot]co<br>
+Email - shincapie[at]acm[dot]org<br>
 Github - https://github.com/shpotes
