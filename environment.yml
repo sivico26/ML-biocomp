@@ -2,7 +2,7 @@ name: ML
 
 dependencies:
   - python=3.6
-  - sklearn
+  - scikit-learn
   - pandas
   - matplotlib
   - plotly
