@@ -198,5 +198,5 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 Santiago Hincapie-Potes<br>
 Mathematical Engineering Student<br>
 Departamento de Ciencia Matematicas, Universidad EAFIT.<br>
-Email - shincapie[at]acm[dot]com<br>
+Email - shincapie[at]acm[dot]org<br>
 Github - https://github.com/shpotes
