@@ -14,7 +14,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 1</td>
-      <td> Monday <br> Dec 3 </td>
+      <td> Monday <br> Dec 3 <br> 33-102 </td>
       <td>
 	<b>Course Introduction</b> <br>
 	The Machine Learning Landscape <br>
@@ -32,7 +32,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Discussion Section</td>
-      <td> Monday <br> Dec 3 </td>
+      <td> Monday <br> Dec 3 <br> 33-102 </td>
       <td>
 	<b>The Wonderful World of Python</b> <br>
 	Python overview<br>
@@ -46,7 +46,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 2</td>
-      <td> Tuesday <br> Dec 4 </td>
+      <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
 	<b>Training Models</b> <br>
 	Linear regression<br>
@@ -60,7 +60,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 3</td>
-      <td> Tuesday <br> Dec 4 </td>
+      <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
 	<b>Support Vector Machines</b> <br>
 	Linear SVM Classification<br>
@@ -74,7 +74,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 4</td>
-      <td> Tuesday <br> Dec 4 </td>
+      <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
 	<b>Forests</b> <br>
 	Decision Trees <br>
@@ -87,7 +87,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 5</td>
-      <td> Wednesday <br> Dec 5 </td>
+      <td> Wednesday <br> Dec 5 <br> 33-102 </td>
       <td>
 	<b>Unsupervised Learning</b> <br>
 	Clustering<br>
@@ -109,7 +109,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
     </tr>
     <tr>
       <td>Lecture 6</td>
-      <td> Thursday <br> Dec 6 </td>
+      <td> Thursday <br> Dec 6 <br> 33-202 </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
 	Bio-inspired algorithms <br>
