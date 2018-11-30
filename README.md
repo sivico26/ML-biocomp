@@ -131,7 +131,6 @@ Unless otherwise specified both lectures and discussion sections are 13:00 to 16
       </td>
     </tr>
     <tr>
-    </tr><tr>
       <td>Lecture 7</td>
       <td> Monday <br> Dec 10 </td>
       <td>
