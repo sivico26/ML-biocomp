@@ -6,7 +6,7 @@
 ```
 $ conda env create -f environment.yml
 ```
-2. Activate the new environment:
+2. Activate the new ../environment:
 ```
 $ source activate ML
 ```
