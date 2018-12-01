@@ -62,11 +62,10 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       <td>Lecture 3</td>
       <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
-	<b>Support Vector Machines</b> <br>
-	Linear SVM Classification<br>
-	Nonlinear SVM Classification<br>
-	SVM regression<br>
-	Under the hood
+	<b>Forests</b> <br>
+	Decision Trees <br>
+	Ensemble Learning <br>
+	Random Forests
       </td>
       <td>
 	Soon
@@ -76,10 +75,11 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       <td>Lecture 4</td>
       <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
-	<b>Forests</b> <br>
-	Decision Trees <br>
-	Ensemble Learning <br>
-	Random Forests
+	<b>Support Vector Machines</b> <br>
+	Linear SVM Classification<br>
+	Nonlinear SVM Classification<br>
+	SVM regression<br>
+	Under the hood
       </td>
       <td>
 	Soon
