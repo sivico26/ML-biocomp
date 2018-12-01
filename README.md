@@ -6,7 +6,7 @@ laboratory of Computational Biology of the Universidad EAFIT.
 Please fill out [this](https://goo.gl/forms/elQMecXrRqK0IEjk2) form.
 
 ## Schedule and Syllabus
-Unless otherwise specified both lectures and discussion sections are weekday but friday 13:00 to 16:00 in the _ - ___ <br>
+Unless otherwise specified both lectures and discussion sections are weekday but friday 13:00 to 16:00 <br>
 
 <table class="table">
   <tbody><tr class="active">
