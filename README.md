@@ -62,8 +62,9 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       <td>Lecture 3</td>
       <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
-	<b>Forests</b> <br>
+	<b>notable models</b> <br>
 	Decision Trees <br>
+	Support Vector Machines <br>
 	Ensemble Learning <br>
 	Random Forests
       </td>
@@ -72,21 +73,17 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
-      <td>Lecture 4</td>
+      <td>Discussion Section</td>
       <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
-	<b>Support Vector Machines</b> <br>
-	Linear SVM Classification<br>
-	Nonlinear SVM Classification<br>
-	SVM regression<br>
-	Under the hood
+	<b> End-to-End Machine Learning Project </b>
       </td>
       <td>
 	Soon
       </td>
     </tr>
     <tr>
-      <td>Lecture 5</td>
+      <td>Lecture 4</td>
       <td> Wednesday <br> Dec 5 <br> 33-102 </td>
       <td>
 	<b>Unsupervised Learning</b> <br>
@@ -108,7 +105,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
-      <td>Lecture 6</td>
+      <td>Lecture 5</td>
       <td> Thursday <br> Dec 6 <br> 33-202 </td>
       <td>
 	<b>Introduction to Artificial Neural Networks</b> <br>
@@ -133,7 +130,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
-      <td>Lecture 7</td>
+      <td>Lecture 6</td>
       <td> Monday <br> Dec 10 </td>
       <td>
 	<b>Training Deep Neural Net</b> <br>
@@ -150,7 +147,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
-      <td>Lecture 8</td>
+      <td>Lecture 7</td>
       <td> Tuesday <br> Dec 11 </td>
       <td>
 	<b>Convolutional Neural Networks</b> <br>
@@ -164,7 +161,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
-      <td>Lecture 9</td>
+      <td>Lecture 8</td>
       <td> Wednesday <br> Dec 12 </td>
       <td>
 	<b>Recurrent Neural Networks</b> <br>
