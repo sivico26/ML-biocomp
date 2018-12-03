@@ -2,6 +2,7 @@ name: ML
 
 dependencies:
   - python=3.6
+  - jupyter
   - scikit-learn
   - pandas
   - matplotlib
@@ -13,3 +14,4 @@ dependencies:
   - sympy
   - tensorflow=1.11
   - pip
+
