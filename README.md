@@ -62,7 +62,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       <td>Lecture 3</td>
       <td> Tuesday <br> Dec 4 <br> 33-102 </td>
       <td>
-	<b>notable models</b> <br>
+	<b>Notable models</b> <br>
 	Decision Trees <br>
 	Support Vector Machines <br>
 	Ensemble Learning <br>
