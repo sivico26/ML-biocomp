@@ -1,6 +1,7 @@
 # Machine Learning Mini-course
 This repository contains the material of the mini course of ML taught by the
-laboratory of Computational Biology of the Universidad EAFIT.
+laboratory of Computational Biology of the Universidad EAFIT.<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shpotes/ML-biocomp/master)
 
 ## Registration form 
 Please fill out [this](https://goo.gl/forms/elQMecXrRqK0IEjk2) form.
