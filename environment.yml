@@ -13,5 +13,6 @@ dependencies:
   - scipy
   - sympy
   - tensorflow=1.11
+  - bokeh
+  - anaconda::graphviz
   - pip
-
