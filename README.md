@@ -56,7 +56,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	Learning curves<br>
 	Logistic regression<br>
       </td><td>
-	Soon
+	<a href="/notebooks/lectures/lect2-training-models.ipynb">[slides]</a>
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	Random Forests
       </td>
       <td>
-	Soon
+	<a href="/notebooks/lectures/lect3-models.ipynb">[slides]</a>
       </td>
     </tr>
     <tr>
