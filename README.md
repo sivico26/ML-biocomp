@@ -80,7 +80,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	<b> End-to-End Machine Learning Project </b>
       </td>
       <td>
-	Soon
+	<a href="/notebooks/lectures/end-to-end.ipynb">[notebook]</a><br>
       </td>
     </tr>
     <tr>
